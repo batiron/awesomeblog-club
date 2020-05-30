@@ -560,6 +560,19 @@
                 "automation"
             ],
             "title": "Thoughts, Ideas, Ramblings, Articles, Promos"
+        },
+       {
+            "author": "Harsha Halvi",
+            "description": "I'm an Entreprenuer turned accidental Product Manager writing about all things Startups, Product Management, Philosophy & Life",
+            "tags": [
+                "Business",
+                "SaaS",
+                "Product-management",
+                "Philosophy",
+                "Startups"
+            ],
+            "title": "Thoughts, Ideas & Ramblings of Harsha Halvi"
+            "website": "https://blog.harsha.pw"
         }
     ]
 }
